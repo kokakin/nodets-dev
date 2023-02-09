@@ -1,0 +1,12 @@
+{
+  "name": "nodets-dev",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/kokakin/nodets-dev.git",
+  "author": "kokakin <pedro_guerrer@hotmail.com>",
+  "license": "MIT",
+  "scripts":{
+    
+  }
+}
