@@ -6,7 +6,10 @@
   "repository": "https://github.com/kokakin/nodets-dev.git",
   "author": "kokakin <pedro_guerrer@hotmail.com>",
   "license": "MIT",
-  "scripts":{
-    
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.0"
   }
 }
